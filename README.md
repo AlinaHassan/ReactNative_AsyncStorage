@@ -1,8 +1,1 @@
-# Install node_modules before running app
-
-cd [ProjectDirectory]
-npm install
-
-# Run app by 
-
-react-native run-android
+[README.txt](https://github.com/AlinaHassan/ReactNative_AsyncStorage/files/9606941/README.txt)
